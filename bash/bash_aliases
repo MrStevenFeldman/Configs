@@ -1,3 +1,8 @@
 
 # Note CONFIG_GIT_REPO is defined in bashrc
 alias tmx="$CONFIG_GIT_REPO/tmux/tmux.bash"
+
+
+add_todo() {
+ echo "- $@" >> $CONFIG_GIT_REPO/todo.txt
+}
