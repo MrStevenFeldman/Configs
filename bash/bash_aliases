@@ -1,0 +1,3 @@
+
+# Note CONFIG_GIT_REPO is defined in bashrc
+alias tmx="$CONFIG_GIT_REPO/tmux/tmux.bash"
