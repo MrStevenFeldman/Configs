@@ -6,3 +6,5 @@
 ln -sf $PWD/bash/bash_aliases ~/.bash_aliases
 ln -sf $PWD/bash/bashrc ~/.bashrc
 ln -sf $PWD/tmux/tmux.conf ~/.tmux.conf
+mkdir -p ~/.tmux/plugins
+ln -sf $PWD/tmux/tpm ~/.tmux/plugins/tpm
