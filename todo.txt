@@ -1,0 +1,16 @@
+
+- cron jobs
+  - Check for git diffs and display notice to update repo. Pull from repo and
+    display notice if merge fails.
+  - screen break reminders
+  - snippet reminders
+  - crontab to clear tmux resurret history
+
+############################
+### Unsorted Todos       ###
+### add_todo "buy milk"  ###
+############################
+- alt+arrow naviagation
+- vim remove 
+- vim trim whitespace
+- vim lint
