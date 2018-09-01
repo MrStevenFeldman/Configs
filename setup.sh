@@ -16,5 +16,8 @@ ln -sf $PWD/tmux/tpm ~/.tmux/plugins/tpm
 ln -sf $PWD/vim/vimrc ~/.vim_runtime
 sh ~/.vim_runtime/install_awesome_vimrc.sh
 
+# GIT
+ln -sf $PWD/gitconfig ~/.gitconfig
+
 # Window Manager (I3)
 # TODO: Add i3 support.
