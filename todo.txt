@@ -14,3 +14,4 @@
 - vim remove 
 - vim trim whitespace
 - vim lint
+- alias apt to also log the instal events
