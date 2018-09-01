@@ -3,6 +3,7 @@
 alias tmx="$CONFIG_GIT_REPO/tmux/tmux.bash"
 
 alias vim="/usr/local/bin/vim"
+alias vi=vim
 
 add_todo() {
  echo "- $@" >> $CONFIG_GIT_REPO/todo.txt

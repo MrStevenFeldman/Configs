@@ -119,5 +119,5 @@ if ! shopt -oq posix; then
   fi
 fi
 
-PROMPT_COMMAND="echo -n \[\$(date +%H:%M:%S)\]\ "
+# PROMPT_COMMAND="echo -n \[\$(date +%H:%M:%S)\]\ "
 
