@@ -4,9 +4,6 @@
 [submodule "vim/Vundle.vim"]
 	path = vim/Vundle.vim
 	url = https://github.com/VundleVim/Vundle.vim.git
-[submodule "vim/vimrc"]
-	path = vim/vimrc
-	url = https://github.com/amix/vimrc
 [submodule "vim/vim"]
 	path = vim/vim
 	url = https://github.com/vim/vim.git

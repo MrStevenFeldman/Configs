@@ -1,0 +1,6 @@
+[submodule "my_plugins/vim-codefmt"]
+	path = my_plugins/vim-codefmt
+	url = https://github.com/google/vim-codefmt.git
+[submodule "vim-maktaba"]
+	path = vim-maktaba
+	url = https://github.com/google/vim-maktaba

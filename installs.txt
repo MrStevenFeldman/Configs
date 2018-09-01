@@ -1,3 +1,13 @@
 
-apt install git tmux vim urlview
+apt install git tmux vim urlview python-pip3 clang-format
 
+# Docker
+https://blog.alexellis.io/getting-started-with-docker-on-raspberry-pi/
+
+# Golang
+
+
+# WireGuard
+# https://www.wireguard.com/install/
+sudo apt-get install software-properties-common
+sudo add-apt-repository ppa:wireguard/wireguard && sudo apt-get update && sudo apt-get install wireguard
