@@ -20,4 +20,5 @@ sh ~/.vim_runtime/install_awesome_vimrc.sh
 ln -sf $PWD/gitconfig ~/.gitconfig
 
 # Window Manager (I3)
-# TODO: Add i3 support.
+#TODO(install i3 and junk)
+ln -sf $PWD/config ~/.config

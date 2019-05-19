@@ -1,0 +1,16 @@
+general {
+  output_format = "i3bar"
+  colors = true
+  interval = 5
+}
+
+order += "tztime local"
+order += "cpu_usage"
+order += "load"
+
+tztime local {
+  format = "%A %B %d, %Y %H:%M:%S"
+  timezone = "America/Los_Angeles"
+}
+
+
